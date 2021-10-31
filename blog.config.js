@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Acco Sistemas',
   author: 'Caio Berezowski',
-  email: 'caio@accosistemas.com',
+  email: 'contato@accosistemas.com',
   link: 'https://accosistemas.com',
   description: 'Uma mistura de produtividade, design, codigo.',
   lang: 'pt-BR', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
