@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Caio Berezowski',
   email: 'contato@accosistemas.com',
   link: 'https://accosistemas.com',
-  description: 'Uma mistura de produtividade, design, codigo.',
+  description: 'Uma mistura de produtividade, design, código.',
   lang: 'pt-BR', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -16,7 +16,7 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://accosistemas.com', // The link to generate OG image, don't end with a slash
   socialLink: 'https://instagram.com/accosistemas',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
